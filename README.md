@@ -214,5 +214,5 @@ mvn clean javafx:run
 ---
 
 ## Autor
-
+Jonathan Pacalla
 Proyecto desarrollado como parte del curso de Estructuras de Datos — ESPOL.
